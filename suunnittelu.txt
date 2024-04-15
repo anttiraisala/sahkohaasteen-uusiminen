@@ -1,0 +1,10 @@
+
+
+https://www.nutsvolts.com/magazine/article/seven-common-ways-to-generate-a-sine-wave
+
+
+https://www.arduino.cc/reference/en/libraries/arduinofft/
+https://github.com/kosme/arduinoFFT
+https://github.com/kosme/arduinoFFT/wiki
+https://projecthub.arduino.cc/abhilashpatel121/easyfft-fast-fourier-transform-fft-for-arduino-03724d
+
