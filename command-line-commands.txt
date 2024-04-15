@@ -27,19 +27,21 @@ cd /home/anttir/projects-own/aikakapseli
 
 
 
-Arduinon kytkeminen portteihin
+Arduinon kytkeminen portteihin, Port monitor error
 ------------------------------------------
 
 https://askubuntu.com/questions/1056314/uploading-code-to-arduino-gives-me-the-error-avrdude-ser-open-cant-open-d
 
 https://support.arduino.cc/hc/en-us/articles/360016495679-Fix-port-access-on-Linux
-Add yourself to the dialout group
 
-sudo usermod -a -G dialout <username>
+# Add yourself to the dialout group
 
 sudo usermod -a -G dialout $(whoami)
 
-Port monitor error
+# restart
+sudo shutdown now -r
+
+
 
 To confirm the port exists enter the following from the root directory:
   ll /dev/ttyACM0
