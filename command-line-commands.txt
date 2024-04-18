@@ -26,6 +26,20 @@ git diff main implement-calculation-state-branch
 cd /home/anttir/projects-own/aikakapseli
 
 
+Why is Git always asking for my password?
+---------------------------------------------------
+https://docs.github.com/en/get-started/getting-started-with-git/why-is-git-always-asking-for-my-password
+https://www.freecodecamp.org/news/how-to-fix-git-always-asking-for-user-credentials/
+
+git remote set-url origin git@github.com:username/repo.git
+
+or
+
+git config --global credential.helper store
+git config --global credential.helper cache
+
+
+
 
 Arduinon kytkeminen portteihin, Port monitor error
 ------------------------------------------
