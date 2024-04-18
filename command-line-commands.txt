@@ -26,6 +26,7 @@ git diff main implement-calculation-state-branch
 cd /home/anttir/projects-own/aikakapseli
 
 
+
 Why is Git always asking for my password?
 ---------------------------------------------------
 https://docs.github.com/en/get-started/getting-started-with-git/why-is-git-always-asking-for-my-password
