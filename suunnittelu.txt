@@ -8,3 +8,21 @@ https://github.com/kosme/arduinoFFT
 https://github.com/kosme/arduinoFFT/wiki
 https://projecthub.arduino.cc/abhilashpatel121/easyfft-fast-fourier-transform-fft-for-arduino-03724d
 
+
+Signal generator:
+
+https://www.google.com/search?client=firefox-b-d&q=AD9833
+
+
+https://www.digikey.fi/fi/product-highlight/a/analog-devices/ad9833-programmable-waveform-generator
+
+
+https://docs.google.com/spreadsheets/d/1pYUOnJyr3MGtovkDOAOyJQlPRXBT-k5Yd7FnyVd2xxU
+
+https://www.google.com/search?q=fft+chip
+https://www.theeeview.com/how-to-implement-an-fft-with-an-fpga-from-scratch/
+https://www.ti.com/product/MSP430FR5994#features
+
+
+
+
